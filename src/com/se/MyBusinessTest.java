@@ -38,6 +38,7 @@ public class MyBusinessTest {
         Boolean b = false;
         String s = mb.sayHello(a, b);
         assertEquals("Hello", s);
+        //System.out.println("OK");
     }
 
 }
